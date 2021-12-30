@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.lentes {
+    position: absolute;
+    left: 5%;
+    z-index: -1;
+    top: 10px;
+    left: 10px;
+    width: 300px;
+}
+
+.lazos {
+    position: relative;
+    top: 0px;
+    z-index: 2;
+    width: 30%;
+    height: 30%;
+    padding: 0px;
+}

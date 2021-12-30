@@ -1,0 +1,184 @@
+/*Reset*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*España*/
+
+.españa {
+    box-sizing: content-box;
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    left: -35%;
+}
+
+.rojo__españa {
+    background-color: red;
+    border: 2px solid #808080;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    right: 10px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.amarillo__españa {
+    background-color: yellow;
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    top: 25%;
+}
+
+.bandera__españa {
+    position: absolute;
+    top: 160px;
+    font-weight: bold;
+}
+
+/*Dinamarca*/
+
+.dinamarca {
+    box-sizing: content-box;
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    right: -10%; 
+    z-index: -2;
+}
+
+.rojo__dinamarca {
+    background-color: red;
+    border: 2px solid #808080;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    right: 10px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.blanco__dinamarca {
+    background-color: white;
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    top: 43%;
+}
+
+.blanco__dinamarca2 {
+    background-color: white;
+    width: 20px;
+    height: 202px;
+    position: absolute;
+    margin-left: 22%; 
+    z-index: auto;
+    margin-top: -22%;
+}
+
+.bandera__dinamarca {
+    position: absolute;
+    top: 120px;
+    font-weight: bold;
+}
+
+/*Emiratos Arabes*/ 
+
+.emiratos {
+    box-sizing: content-box;
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    left: 35%;
+}
+
+.rojo__emiratos {
+    background-color: red;
+    border: 2px solid #808080;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    top: 250px;
+    left: -870px;
+  }
+  
+.verde__emiratos{
+    background-color: green;
+    width: 80%;
+    height: 70px;
+    position: absolute;
+    left: 80px;
+    top: -1px;
+  }
+
+.blanco__emiratos {
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    left: -.1px;
+    top: 100%;
+  }
+
+.negro__emiratos {
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    left: -.1px;
+    top: 190%;
+  }
+
+.bandera__emiratos {
+    position: absolute;
+    top: 210px;
+    left: -80px;
+    font-weight: bold;
+  }
+
+  /*Japón*/
+
+.japon {
+    box-sizing: content-box;
+    width: 500px;
+     margin: 0 auto;
+    position: relative;
+    left: -35%;
+    }
+
+.blanco__japon {
+    background-color: white;
+    border: 2px solid #808080;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    top: 250px;
+    right: -600px;
+  }
+  
+.rojo__japon {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 10px;
+    border-radius: 60%;
+    top: 50px;
+    left: 150px;
+ }
+
+.bandera__japon {
+    position: absolute;
+    top: 160px;
+    left: -150px;
+    font-weight: bold;
+}
+  
