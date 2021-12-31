@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cargador {
+    position: absolute;
+    left: 15px;
+    margin-top: 50px;
+    z-index: -1;
+}
+
+.envio {
+    position: relative;
+    top: 330px;
+    left: 280px;
+    z-index: 2px;
+    padding: 0;
+    width: 120px;
+}
